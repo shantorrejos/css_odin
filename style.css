@@ -125,3 +125,44 @@ li{
     font-size: 30px;
 }
 
+.callDetails{
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882F6;
+    margin: 100px 250px;
+    padding: 80px 150px;
+    border-radius: 20px;
+}
+
+.calldetails-text{
+    color: #F9FAF8
+}
+
+.calldetails-text .calldetails-h{
+    font-size: 36px;
+}
+
+.calldetails-text .calldetails-p{
+    font-size: 24px;
+    color: #E5E7EB;
+}
+
+button.callButton{
+    padding: 10px 40px;
+    color: #F9FAF8;
+    background-color: #3882F6;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 3px;
+    border-color:#E5E7EB;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.footer{
+    text-align: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 50px;
+    font-size: 24px;
+}
