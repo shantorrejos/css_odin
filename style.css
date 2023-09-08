@@ -106,3 +106,22 @@ li{
     max-width: 200px;
 }
 
+.quote{
+    background-color: #E5E7EB;
+    padding: 180px 400px;
+}
+
+.quote-text{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote-author{
+    display: flex;
+    justify-content: flex-end;
+    color: #1F2937;
+    font-weight: 700;
+    font-size: 30px;
+}
+
